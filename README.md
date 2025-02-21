@@ -1,4 +1,4 @@
-# soft-in-black README
+# Soft-in-black
 A VSCode theme based with a pitch-black setting but with cozy colors.
 
 ### What it looks like
